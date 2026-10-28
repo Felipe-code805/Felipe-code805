@@ -70,4 +70,4 @@ Busco oportunidades de estágio ou desenvolvimento júnior na área de software,
 
 Quer conhecer melhor minha formação, minhas habilidades e minha trajetória profissional?
 
-**[Acesse meu currículo desenvolvido com HTML e CSS](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_DO_CURRICULO)**
+**[Acesse meu currículo desenvolvido com HTML e CSS](https://github.com/Felipe-code805/Meu_Curriculo)**
